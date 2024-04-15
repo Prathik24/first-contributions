@@ -31,6 +31,7 @@
 - [Simrana Farrukh] (https://github.com/simranfarrukh)
 - ashtise
 - Kristen McDonald
+- Prathik Prasad (https://github.com/Prathik24)
 - [Bogdan Nuzhnyy] (https://github.com/bognuz)
 -ESWAR KALWA
 - [Abhijeet Prajapati](https://github.com/Abhi-P-0)
